@@ -1,0 +1,134 @@
+/* Style the header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-left img {
+  max-width: 100px;
+  height: auto;
+}
+
+.header-left h1 {
+  font-size: 24px;
+  margin-left: 10px;
+}
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-right button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.header-right button:hover {
+  background-color: #0056b3;
+}
+
+/* Style the main content container */
+#main-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.card {
+  width: 300px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.top-container {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.bottom-container {
+  padding: 10px;
+}
+
+h3 {
+  font-size: 18px;
+  margin: 0;
+}
+
+a[role="button"] {
+  display: block;
+  color: #007bff;
+  text-decoration: none;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+a[role="button"]:hover {
+  text-decoration: underline;
+}
+/* Style the blog content container */
+#blog-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#name {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#submittedBy,
+#submittedOn {
+  font-size: 16px;
+  color: #777;
+}
+
+#content {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+  color: #777;
+  margin-top: 20px;
+}
