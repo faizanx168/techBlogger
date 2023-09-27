@@ -7,7 +7,8 @@ Required Features Implemented
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src="https://i.imgur.com/Sw7mVeD.gif" alt="Your GIF">
+![ezgif com-optimize](https://github.com/faizanx168/techBlogger/assets/105330878/2f2cc0fb-0bcb-4b08-9dce-e8d86d5c9d1d)
+
 GIF created with screentogif GIF tool here
 
 ## Notes
