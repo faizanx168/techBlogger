@@ -1,5 +1,6 @@
 import express from "express";
 import blogRouter from "./routes/blogs.js";
+import "./config/dotenv.js";
 const app = express();
 app.use("/public", express.static("./public"));
 app.use("/scripts", express.static("./public/scripts"));
