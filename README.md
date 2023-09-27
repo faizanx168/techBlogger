@@ -7,9 +7,7 @@ Required Features Implemented
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='https://i.imgur.com/Sw7mVeD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src="https://i.imgur.com/Sw7mVeD.gif" alt="Your GIF">
 GIF created with screentogif GIF tool here
 
 ## Notes
